@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: 800;
+    color: rgb(175, 95, 66);
+    
+  
+}
+
+.conted {
+    background: rgb(229, 149, 119);
+}
+body {
+   background:rgb(216, 191, 146)
+}
